@@ -4,14 +4,13 @@ import UnorderList from "./components/functional-components/list/unorder-list/un
 import Image from "./components/functional-components/image/image";
 import TableComponent from "./components/functional-components/table/table";
 import Profile from "./components/functional-components/jsx/jsx";
+import EmployeesComponent from "./components/class-component/employee/employee";
 function App() {
   return (
     
        <div>
-        <h1>
-          Hello World
-        </h1>
-        <Profile/>
+       <EmployeesComponent/>
+        
         
         </div>
       
