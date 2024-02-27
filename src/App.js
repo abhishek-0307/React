@@ -5,11 +5,12 @@ import Image from "./components/functional-components/image/image";
 import TableComponent from "./components/functional-components/table/table";
 import Profile from "./components/functional-components/jsx/jsx";
 import EmployeesComponent from "./components/class-component/employee/employee";
+import Products from "./components/class-component/products/products";
 function App() {
   return (
     
        <div>
-       <EmployeesComponent/>
+       <Products/>
         
         
         </div>
