@@ -6,11 +6,12 @@ import TableComponent from "./components/functional-components/table/table";
 import Profile from "./components/functional-components/jsx/jsx";
 import EmployeesComponent from "./components/class-component/employee/employee";
 import Products from "./components/class-component/products/products";
+import CircleTask from "./components/class-component/circleTask/circle";
 function App() {
   return (
     
        <div>
-       <Products/>
+       <CircleTask/>
         
         
         </div>
