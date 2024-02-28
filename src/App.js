@@ -7,11 +7,13 @@ import Profile from "./components/functional-components/jsx/jsx";
 import EmployeesComponent from "./components/class-component/employee/employee";
 import Products from "./components/class-component/products/products";
 import CircleTask from "./components/class-component/circleTask/circle";
+import TableTask from "./components/class-component/table/tabletask";
+import ListTask from "./components/class-component/table/listtask";
 function App() {
   return (
     
        <div>
-       <CircleTask/>
+       <ListTask/>
         
         
         </div>
